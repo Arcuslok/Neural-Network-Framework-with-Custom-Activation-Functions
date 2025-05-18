@@ -23,7 +23,6 @@ pip install numpy
 ```
 ├── Activation_Functions.py  # All activation functions + derivatives  
 ├── Neural_Network.py        # Core network implementation (Layer, training, etc.)  
-└── Example_Usage.py         # (Optional) Demo script showing how to train a network  
 ```
 
 ### **3. Basic Usage**  
